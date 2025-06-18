@@ -12,14 +12,11 @@ Our project is available on GitHub, and you can run the code directly in your R 
 1. **Download the Dataset from Kaggle**
 - The combined dataset used in this project comes from Kaggle. You can download it by visiting the Kaggle page below.
      - Dataset Title: [IMDb Actors and Movies](https://www.kaggle.com/datasets/rishabjadhav/imdb-actors-and-movies/data?select=combined.csv)
+- Click the link, and download the $${\color{green}combined.csv}$$ file to your computer.
 
-
-Click the link, and download the combined.csv file to your computer.
-
-Set up Your R Environment
-
-
-Install the necessary libraries in R:
+2. **Set up Your R Environment**
+- Install the necessary libraries in R:
+  ![Step 1](https://github.com/user-attachments/assets/02eba314-08ff-4f7e-b06e-06687c27ffb7)
 
 
 If you are using RStudio or another IDE, open a new R script and set up the environment.
